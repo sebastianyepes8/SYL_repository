@@ -49,3 +49,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
         return func.HttpResponse(json_response)
     else:
         return func.HttpResponse("NUBE Puede que se ingresara in valor mal en el postman pero la funcion se ejecuto meleramente",status_code=200)
+
+SEBASTIAN YEPES LARGO
+
+
